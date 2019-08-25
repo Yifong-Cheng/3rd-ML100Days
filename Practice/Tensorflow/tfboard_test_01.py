@@ -1,5 +1,10 @@
 import tensorflow as tf
 
+def Show_tf_Version():
+	print("tf_version : " + str(tf.VERSION))
+
+Show_tf_Version()
+
 # 宣告常數A&B，後面的name參數，是要繪製tensorboard時所使用的名稱。
 # 若沒有指定，或是重複名稱，則tensorboard會自動修改。
 A = tf.constant(50, name='const_A')
