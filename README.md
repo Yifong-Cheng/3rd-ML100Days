@@ -7,3 +7,27 @@ https://www.cupoy.com/home
 
 <br>
 
+Topic:
+<br>
+1.The introduction of Machine Learning(Day1-4)
+<br>
+-Learning about what is machine learning and what can machine learning do
+<br>
+2.Data cleaning and Data preprocessing(Day5-10)
+
+
+<br>
+3.
+<br>
+4.
+<br>
+5.
+<br>
+6.
+<br>
+7.
+<br>
+8.
+<br>
+9.
+<br>
