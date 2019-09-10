@@ -19,7 +19,8 @@ Topic:
 -(day5)know how to creat dataframe and read data from some way(ex: txt)
 <br>
 -(day9)use pandas and matplotlib draw some ECDF chart but before draw the img need to filter and choose the outlier
-
+<br>
+-(day11 & 12)drop columns , fillna the nan value and normalization the data
 <br>
 3.
 <br>
