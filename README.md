@@ -14,13 +14,15 @@ Topic:
 <br>
 -Learning about what is machine learning and what can machine learning do
 <br>
-2.Data cleaning and Data preprocessing(Day5-12)
+2.Data cleaning and Data preprocessing(Day5-15)
 <br>
 -(day5)know how to creat dataframe and read data from some way(ex: txt)
 <br>
 -(day9)use pandas and matplotlib draw some ECDF chart but before draw the img need to filter and choose the outlier
 <br>
 -(day11 & 12)drop columns , fillna the nan value and normalization the data
+<br>
+-(day15)calculate the Correlation coefficient of dataframe
 <br>
 3.
 <br>
