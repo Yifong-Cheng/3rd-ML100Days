@@ -13,7 +13,7 @@ Topic:
 1.The introduction of Machine Learning(Day1-4)
 <br>
 -Learning about what is machine learning and what can machine learning do
-<br>
+<br><br>
 2.Data cleaning and Data preprocessing(Day5-18)
 <br>
 -(day5)know how to creat dataframe and read data from some way(ex: txt)
@@ -28,6 +28,8 @@ Topic:
 <br>
 -(day17 & 18)know how the pd.cut and and pd.qcut work and choose one or more interesting  info you think with seaborn draw the data barplot 
 <br>
+
+<br><br>
 3.
 <br>
 4.
