@@ -13,8 +13,8 @@ Topic:
 1.The introduction of Machine Learning(Day1-4)
 <br>
 -Learning about what is machine learning and what can machine learning do
-<br>
-2.Data cleaning and Data preprocessing(Day5-15)
+<br><br>
+2.Data cleaning and Data preprocessing(Day5-18)
 <br>
 -(day5)know how to creat dataframe and read data from some way(ex: txt)
 <br>
@@ -24,6 +24,12 @@ Topic:
 <br>
 -(day15)calculate the Correlation coefficient of dataframe
 <br>
+-(day16)groupby the data and draw it to see some interssting info
+<br>
+-(day17 & 18)know how the pd.cut and and pd.qcut work and choose one or more interesting  info you think with seaborn draw the data barplot 
+<br>
+
+<br><br>
 3.
 <br>
 4.
