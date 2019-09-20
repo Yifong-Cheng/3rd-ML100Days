@@ -32,7 +32,7 @@ Topic:
 <br>
 -(Day21) upload the train model to the Kaggle competition
 <br><br>
-3....(Day22-)
+3.Data Science and Feature Enginner technology(Day22-)
 <br>
 -(Day22) know what is the Feature Enginnering
 <br>
