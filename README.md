@@ -14,7 +14,7 @@ Topic:
 <br>
 -Learning about what is machine learning and what can machine learning do
 <br><br>
-2.Data cleaning and Data preprocessing(Day5-18)
+2.Data cleaning and Data preprocessing(Day5-21)
 <br>
 -(day5)know how to creat dataframe and read data from some way(ex: txt)
 <br>
@@ -28,10 +28,21 @@ Topic:
 <br>
 -(day17 & 18)know how the pd.cut and and pd.qcut work and choose one or more interesting  info you think with seaborn draw the data barplot 
 <br>
-
-<br><br>
-3.
+-(Day)
 <br>
+-(Day21) upload the train model to the Kaggle competition
+<br><br>
+3.Data Science and Feature Enginner technology(Day22-)
+<br>
+-(Day22) know what is the Feature Enginnering
+<br>
+-()
+<br>
+-()
+<br>
+-()
+<br>
+<br><br>
 4.
 <br>
 5.
