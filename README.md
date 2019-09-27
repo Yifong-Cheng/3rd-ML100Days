@@ -38,7 +38,7 @@ Topic:
 <br>
 -()
 <br>
--()
+-(Day29 & 30) choose the feature and group it then watch it if get better score or not
 <br>
 -()
 <br>
