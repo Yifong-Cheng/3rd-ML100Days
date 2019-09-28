@@ -40,8 +40,13 @@ Topic:
 <br>
 -(Day29 & 30) choose the feature and group it then watch it if get better score or not
 <br>
+-(Day32) talk about the method of Leaf_Encoding and how it work
+<br>
 -()
 <br>
+-()
+<br>
+-()
 <br><br>
 4.
 <br>
