@@ -36,7 +36,11 @@ Topic:
 <br>
 -(Day22) know what is the Feature Enginnering
 <br>
--()
+-(Day23) boxcox,log1p and sqrt to Reduce Skewness
+<br>
+-(Day24 & 25 & 26) to know the different of label encoding and one hot encoding to effect data and day25 comparison mean encoder and label encoding day26 is talk about the advanced usage like feature hash
+<br>
+-(Day27 & 28)
 <br>
 -(Day29 & 30) choose the feature and group it then watch it if get better score or not
 <br>
