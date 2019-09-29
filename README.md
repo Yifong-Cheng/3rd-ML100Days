@@ -28,7 +28,7 @@ Topic:
 <br>
 -(day17 & 18)know how the pd.cut and and pd.qcut work and choose one or more interesting  info you think with seaborn draw the data barplot 
 <br>
--(Day)
+-(Day19 & 20)talk about the subplot,seaborn,hertmap to make people easily watch the data
 <br>
 -(Day21) upload the train model to the Kaggle competition
 <br><br>
