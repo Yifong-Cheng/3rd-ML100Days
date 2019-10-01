@@ -28,7 +28,7 @@ Topic:
 <br>
 -(day17 & 18)know how the pd.cut and and pd.qcut work and choose one or more interesting  info you think with seaborn draw the data barplot 
 <br>
--(Day)
+-(Day19 & 20)talk about the subplot,seaborn,hertmap to make people easily watch the data
 <br>
 -(Day21) upload the train model to the Kaggle competition
 <br><br>
@@ -36,12 +36,21 @@ Topic:
 <br>
 -(Day22) know what is the Feature Enginnering
 <br>
--()
+-(Day23) boxcox,log1p and sqrt to Reduce Skewness
+<br>
+-(Day24 & 25 & 26) to know the different of label encoding and one hot encoding to effect data and day25 comparison mean encoder and label encoding day26 is talk about the advanced usage like feature hash
+<br>
+-(Day27 & 28)
 <br>
 -(Day29 & 30) choose the feature and group it then watch it if get better score or not
 <br>
+-(Day32) talk about the method of Leaf_Encoding and how it work
+<br>
 -()
 <br>
+-()
+<br>
+-()
 <br><br>
 4.
 <br>
