@@ -10,12 +10,13 @@ https://www.cupoy.com/home
 Topic:
 <br>
 <br>
-
-* 1.The introduction of Machine Learning(Day1-4)
+<ol>
+<li>1.The introduction of Machine Learning(Day1-4)</li>
 <br>
   * <a href="https://github.com/Yifong-Cheng/3rd-ML100Days/blob/master/homework/Day_001_HW.ipynb">day01</a>
   * -Learning about what is machine learning and what can machine learning do
 <br><br>
+ 
 * 2.Data cleaning and Data preprocessing(Day5-21)
 <br>
   * -(day5)know how to creat dataframe and read data from some way(ex: txt)
@@ -66,3 +67,4 @@ Topic:
 <br>
 9.
 <br>
+</ol>
