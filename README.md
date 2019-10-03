@@ -13,7 +13,11 @@ https://www.cupoy.com/home
 <ol>
 <li><h3>The introduction of Machine Learning(Day1-4)</h3></li>
 <br>
-<a href="https://github.com/Yifong-Cheng/3rd-ML100Days/blob/master/homework/Day_001_HW.ipynb">day01</a>
+<a href="https://github.com/Yifong-Cheng/3rd-ML100Days/blob/master/homework/Day_001_HW.ipynb">day01</a>,
+<a href="https://github.com/Yifong-Cheng/3rd-ML100Days/blob/master/homework/Day_002_HW.ipynb">day02</a>,
+<a href="https://github.com/Yifong-Cheng/3rd-ML100Days/blob/master/homework/Day_003_HW.ipynb">day03</a>,
+<a href="https://github.com/Yifong-Cheng/3rd-ML100Days/blob/master/homework/Day_004_HW.ipynb">day04</a>
+ </br>
 -Learning about what is machine learning and what can machine learning do
 <br><br>
  
