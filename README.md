@@ -11,7 +11,7 @@ Topic:
 <br>
 <br>
 <ol>
-## <li>The introduction of Machine Learning(Day1-4)</li>
+<li><h3>The introduction of Machine Learning(Day1-4)</h3></li>
 <br>
 <a href="https://github.com/Yifong-Cheng/3rd-ML100Days/blob/master/homework/Day_001_HW.ipynb">day01</a>
 -Learning about what is machine learning and what can machine learning do
