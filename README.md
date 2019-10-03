@@ -13,7 +13,7 @@ Topic:
 
 1.The introduction of Machine Learning(Day1-4)
 <br>
-<a herf="https://github.com/Yifong-Cheng/3rd-ML100Days/blob/master/homework/Day_001_HW.ipynb">day01</a>
+<a href="https://github.com/Yifong-Cheng/3rd-ML100Days/blob/master/homework/Day_001_HW.ipynb">day01</a>
 -Learning about what is machine learning and what can machine learning do
 <br><br>
 2.Data cleaning and Data preprocessing(Day5-21)
