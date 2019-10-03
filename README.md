@@ -11,13 +11,13 @@ Topic:
 <br>
 <br>
 <ol>
-<li>1.The introduction of Machine Learning(Day1-4)</li>
+<li>The introduction of Machine Learning(Day1-4)</li>
 <br>
-  * <a href="https://github.com/Yifong-Cheng/3rd-ML100Days/blob/master/homework/Day_001_HW.ipynb">day01</a>
-  * -Learning about what is machine learning and what can machine learning do
+  <a href="https://github.com/Yifong-Cheng/3rd-ML100Days/blob/master/homework/Day_001_HW.ipynb">day01</a>
+  -Learning about what is machine learning and what can machine learning do
 <br><br>
  
-* 2.Data cleaning and Data preprocessing(Day5-21)
+<li>Data cleaning and Data preprocessing(Day5-21)</li>
 <br>
   * -(day5)know how to creat dataframe and read data from some way(ex: txt)
 <br>
@@ -35,7 +35,7 @@ Topic:
 <br>
   * -(Day21) upload the train model to the Kaggle competition
 <br><br>
-* 3.Data Science and Feature Enginner technology(Day22-)
+<li>Data Science and Feature Enginner technology(Day22-32)</li>
 <br>
 -(Day22) know what is the Feature Enginnering
 <br>
@@ -55,16 +55,16 @@ Topic:
 <br>
 -()
 <br><br>
-4.
+<li></li>
 <br>
-5.
+<li></li>
 <br>
-6.
+<li></li>
 <br>
-7.
+<li></li>
 <br>
-8.
+<li></li>
 <br>
-9.
+<li></li>
 <br>
 </ol>
