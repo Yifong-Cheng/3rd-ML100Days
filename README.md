@@ -10,7 +10,9 @@ https://www.cupoy.com/home
 Topic:
 <br>
 <br>
+<a herf="https://github.com/Yifong-Cheng/3rd-ML100Days/blob/master/homework/Day_001_HW.ipynb">
 1.The introduction of Machine Learning(Day1-4)
+</a>
 <br>
 -Learning about what is machine learning and what can machine learning do
 <br><br>
