@@ -7,7 +7,7 @@ https://www.cupoy.com/home
 
 <br>
 <br>
-Topic:
+<h1>Topic:</h1>
 <br>
 <br>
 <ol>
@@ -17,7 +17,7 @@ Topic:
 -Learning about what is machine learning and what can machine learning do
 <br><br>
  
-<li>Data cleaning and Data preprocessing(Day5-21)</li>
+<li><h3>Data cleaning and Data preprocessing(Day5-21)</h3></li>
 <br>
 -(day5)know how to creat dataframe and read data from some way(ex: txt)
 <br>
@@ -35,7 +35,7 @@ Topic:
 <br>
 -(Day21) upload the train model to the Kaggle competition
 <br><br>
-<li>Data Science and Feature Enginner technology(Day22-32)</li>
+<li><h3>Data Science and Feature Enginner technology(Day22-32)</h3></li>
 <br>
 -(Day22) know what is the Feature Enginnering
 <br>
@@ -55,16 +55,16 @@ Topic:
 <br>
 -()
 <br><br>
-<li></li>
+<li><h3></h3></li>
 <br>
-<li></li>
+<li><h3></h3></li>
 <br>
-<li></li>
+<li><h3></h3></li>
 <br>
-<li></li>
+<li><h3></h3></li>
 <br>
-<li></li>
+<li><h3></h3></li>
 <br>
-<li></li>
+<li><h3></h3></li>
 <br>
 </ol>
