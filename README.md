@@ -55,6 +55,16 @@ https://www.cupoy.com/home
 <br>
 <li><h3>Basic Model Build(Day33-46)</h3></li>
 <br>
+-(Day33)
+<br>
+-(Day34)
+<br>
+-(Day35)the different with rogression and classification , try to answer how them work
+<br>
+-(Day36)try to know the AUC work and choose evaluation metrics(ex: f1_score or fn_score) 
+<br>
+-(Day37) know how regression model work in machine learning
+<br>
 <li><h3>(Day47-53)</h3></li>
 <br>
 <li><h3>(Day54-62)</h3></li>
