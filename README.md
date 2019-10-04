@@ -53,13 +53,7 @@ https://www.cupoy.com/home
 <br>
 -(Day32) talk about the method of Leaf_Encoding and how it work
 <br>
--()
-<br>
--()
-<br>
--()
-<br><br>
-<li><h3>(Day33-46)</h3></li>
+<li><h3>Basic Model Build(Day33-46)</h3></li>
 <br>
 <li><h3>(Day47-53)</h3></li>
 <br>
