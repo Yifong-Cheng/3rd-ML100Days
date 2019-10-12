@@ -65,6 +65,14 @@ https://www.cupoy.com/home
 <br>
 -(Day37) know how regression model work in machine learning
 <br>
+-(Day..)
+<br>
+-(Day43) the DecisionTree work
+<br>
+-(Day44) know how the value effects in RandomForestClassifier 
+<br>
+-(Day45) the issue of tree based model - Gradient Boosting Machine
+<br>
 <li><h3>(Day47-53)</h3></li>
 <br>
 <li><h3>(Day54-62)</h3></li>
