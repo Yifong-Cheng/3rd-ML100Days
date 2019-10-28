@@ -75,7 +75,11 @@ https://www.cupoy.com/home
 <br>
 <li><h3>(Day47-53)</h3></li>
 <br>
-<li><h3>(Day54-62)</h3></li>
+-(Day51-53) Midterm Exam in Kaggle - https://www.kaggle.com/t/ddb623a8a9014efbb5df02cd0228a9c9
+<br>
+<li><h3>Unsupervised learning(Day54-62)</h3></li>
+<br>
+-(Day54) the issue of Unsupervised learning introduction
 <br>
 <li><h3></h3></li>
 <br>
