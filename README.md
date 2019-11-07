@@ -83,7 +83,8 @@ https://www.cupoy.com/home
 <br>
 -<Day..>
 <br>
--<Day61> how t-sne work and theory(https://www.youtube.com/watch?v=RJVL80Gg3lA) 
+-(Day61) how t-sne work and theory(https://www.youtube.com/watch?v=RJVL80Gg3lA) 
+<br>
 <li><h3></h3></li>
 <br>
 <li><h3></h3></li>
