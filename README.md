@@ -85,9 +85,15 @@ https://www.cupoy.com/home
 <br>
 -(Day61) how t-sne work and theory(https://www.youtube.com/watch?v=RJVL80Gg3lA) 
 <br>
-<li><h3></h3></li>
+<li><h3>Deep learning introduction (Day63-65)</h3></li>
 <br>
-<li><h3></h3></li>
+-(Day63-65) Neural Network with TensorFlow PlayGround
+<br>
+<li><h3>Deep Learning with Keras (Day66-91)</h3></li>
+<br>
+-(Day66) Install Keras
+<br>
+-(Day67) first use Keras datasets-cifar100
 <br>
 <li><h3></h3></li>
 <br>
