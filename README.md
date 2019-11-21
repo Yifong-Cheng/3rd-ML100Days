@@ -97,7 +97,7 @@ https://www.cupoy.com/home
 <br>
 -(Day..)
 <br>
--(Day76) try to use different optimizers and output the model
+-(Day76) try to use different optimizers and output the model(https://github.com/Yifong-Cheng/3rd-ML100Days/blob/master/homework/saved_models/keras_cifar10_trained_model.h5)
 <br>
 <li><h3></h3></li>
 <br>
