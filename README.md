@@ -95,6 +95,10 @@ https://www.cupoy.com/home
 <br>
 -(Day67) first use Keras datasets-cifar100
 <br>
+-(Day..)
+<br>
+-(Day76) try to use different optimizers and output the model
+<br>
 <li><h3></h3></li>
 <br>
 </ol>
