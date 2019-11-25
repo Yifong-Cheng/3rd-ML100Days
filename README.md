@@ -95,6 +95,10 @@ https://www.cupoy.com/home
 <br>
 -(Day67) first use Keras datasets-cifar100
 <br>
+-(Day..)
+<br>
+-(Day76) try to use different optimizers and output the model(<a href="https://github.com/Yifong-Cheng/3rd-ML100Days/blob/master/homework/saved_models/keras_cifar10_trained_model.h5">model</a>)
+<br>
 <li><h3></h3></li>
 <br>
 </ol>
