@@ -99,6 +99,23 @@ https://www.cupoy.com/home
 <br>
 -(Day76) try to use different optimizers and output the model(<a href="https://github.com/Yifong-Cheng/3rd-ML100Days/blob/master/homework/saved_models/keras_cifar10_trained_model.h5">model</a>)
 <br>
-<li><h3></h3></li>
+<li><h3>Deep Learning and CNN (Day 92-100)</h3></li>
 <br>
+-(Day92)why CNN important and how it work
+<br>
+-(Day93)tell why CNN process images data better than DNN
+<br>
+-(Day94)CNN Convolution principle and parameter
+<br>
+-(Day95)CNN Pooling principle and parameter
+<br>
+-(Day96)thelayer in CNN
+<br>
+-(Day97)the different of train cifar10 data with CNN & DNN
+<br>
+-(Day98)how to work smart with big data
+<br>
+-(Day99)how to work smart with small data 
+<br>
+-(Day100)transfer learning with resnet
 </ol>
